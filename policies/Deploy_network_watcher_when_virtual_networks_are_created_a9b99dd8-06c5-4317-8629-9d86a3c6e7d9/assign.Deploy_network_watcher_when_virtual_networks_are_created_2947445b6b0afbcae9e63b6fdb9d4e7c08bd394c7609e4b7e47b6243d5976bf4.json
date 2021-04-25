@@ -1,0 +1,30 @@
+{
+ "sku": {
+  "name": "A1",
+  "tier": "Standard"
+ },
+ "identity": {
+  "principalId": "680be709-9b24-4a5e-940b-6d7dfa321a94",
+  "tenantId": "8a13b94a-3e0b-4001-998d-37670136ecf1",
+  "type": "SystemAssigned"
+ },
+ "properties": {
+  "displayName": "Deploy network watcher when virtual networks are created",
+  "policyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/a9b99dd8-06c5-4317-8629-9d86a3c6e7d9",
+  "scope": "/subscriptions/efdd7680-2eb7-4902-a269-899c18b1635e",
+  "notScopes": [],
+  "parameters": {},
+  "description": "",
+  "metadata": {
+   "createdBy": "eff4813e-afba-4e02-8898-feaf87c45122",
+   "createdOn": "2021-04-15T16:35:11.2578299Z",
+   "updatedBy": null,
+   "updatedOn": null
+  },
+  "enforcementMode": "Default"
+ },
+ "id": "/subscriptions/efdd7680-2eb7-4902-a269-899c18b1635e/providers/Microsoft.Authorization/policyAssignments/2947445b6b0afbcae9e63b6fdb9d4e7c08bd394c7609e4b7e47b6243d5976bf4",
+ "type": "Microsoft.Authorization/policyAssignments",
+ "name": "2947445b6b0afbcae9e63b6fdb9d4e7c08bd394c7609e4b7e47b6243d5976bf4",
+ "location": "canadacentral"
+}

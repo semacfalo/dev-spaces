@@ -1,0 +1,30 @@
+{
+ "sku": {
+  "name": "A1",
+  "tier": "Standard"
+ },
+ "identity": {
+  "principalId": "68e60250-ec57-4f15-8561-2bccda8b55fa",
+  "tenantId": "8a13b94a-3e0b-4001-998d-37670136ecf1",
+  "type": "SystemAssigned"
+ },
+ "properties": {
+  "displayName": "Add system-assigned managed identity to enable Guest Configuration assignments on virtual machines with no identities",
+  "policyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/3cf2ab00-13f1-4d0c-8971-2ac904541a7e",
+  "scope": "/subscriptions/efdd7680-2eb7-4902-a269-899c18b1635e",
+  "notScopes": [],
+  "parameters": {},
+  "description": "",
+  "metadata": {
+   "createdBy": "eff4813e-afba-4e02-8898-feaf87c45122",
+   "createdOn": "2021-04-15T16:34:46.8938394Z",
+   "updatedBy": null,
+   "updatedOn": null
+  },
+  "enforcementMode": "Default"
+ },
+ "id": "/subscriptions/efdd7680-2eb7-4902-a269-899c18b1635e/providers/Microsoft.Authorization/policyAssignments/dbfc8012bf013922be7ab18fcc743babf91717e61ffc1eb616656889814b1f2f",
+ "type": "Microsoft.Authorization/policyAssignments",
+ "name": "dbfc8012bf013922be7ab18fcc743babf91717e61ffc1eb616656889814b1f2f",
+ "location": "canadacentral"
+}

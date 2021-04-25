@@ -1,0 +1,24 @@
+{
+ "sku": {
+  "name": "A1",
+  "tier": "Standard"
+ },
+ "properties": {
+  "displayName": "Enforce encryption on Data Lake Store accounts",
+  "policyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/a7ff3161-0087-490a-9ad9-ad6217f4f43a",
+  "scope": "/subscriptions/efdd7680-2eb7-4902-a269-899c18b1635e",
+  "notScopes": [],
+  "parameters": {},
+  "description": "",
+  "metadata": {
+   "createdBy": "eff4813e-afba-4e02-8898-feaf87c45122",
+   "createdOn": "2021-04-15T16:35:33.0984642Z",
+   "updatedBy": null,
+   "updatedOn": null
+  },
+  "enforcementMode": "Default"
+ },
+ "id": "/subscriptions/efdd7680-2eb7-4902-a269-899c18b1635e/providers/Microsoft.Authorization/policyAssignments/aabaf01b052e2753405f8f219957709f0d65fc033e310fe4c0b0e5e18772c7e1",
+ "type": "Microsoft.Authorization/policyAssignments",
+ "name": "aabaf01b052e2753405f8f219957709f0d65fc033e310fe4c0b0e5e18772c7e1"
+}

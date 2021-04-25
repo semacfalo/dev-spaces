@@ -1,0 +1,30 @@
+{
+ "sku": {
+  "name": "A1",
+  "tier": "Standard"
+ },
+ "identity": {
+  "principalId": "d90183d9-6694-4829-9cfa-5f506de21c9f",
+  "tenantId": "8a13b94a-3e0b-4001-998d-37670136ecf1",
+  "type": "SystemAssigned"
+ },
+ "properties": {
+  "displayName": "Deploy Threat Detection on SQL servers",
+  "policyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/36d49e87-48c4-4f2e-beed-ba4ed02b71f5",
+  "scope": "/subscriptions/efdd7680-2eb7-4902-a269-899c18b1635e",
+  "notScopes": [],
+  "parameters": {},
+  "description": "",
+  "metadata": {
+   "createdBy": "eff4813e-afba-4e02-8898-feaf87c45122",
+   "createdOn": "2021-04-15T16:35:26.1919601Z",
+   "updatedBy": null,
+   "updatedOn": null
+  },
+  "enforcementMode": "Default"
+ },
+ "id": "/subscriptions/efdd7680-2eb7-4902-a269-899c18b1635e/providers/Microsoft.Authorization/policyAssignments/02f66b12546dc32271febe46bb6beeb6667ff743e3d3ee946bf29d397bc2de60",
+ "type": "Microsoft.Authorization/policyAssignments",
+ "name": "02f66b12546dc32271febe46bb6beeb6667ff743e3d3ee946bf29d397bc2de60",
+ "location": "canadacentral"
+}

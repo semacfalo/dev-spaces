@@ -1,0 +1,30 @@
+{
+ "sku": {
+  "name": "A1",
+  "tier": "Standard"
+ },
+ "properties": {
+  "displayName": "Allowed storage account SKUs",
+  "policyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/7433c107-6db4-4ad1-b57a-a76dce0154a1",
+  "scope": "/subscriptions/efdd7680-2eb7-4902-a269-899c18b1635e",
+  "notScopes": [],
+  "parameters": {
+   "listOfAllowedSKUs": {
+    "value": [
+     "Standard_LRS"
+    ]
+   }
+  },
+  "description": "",
+  "metadata": {
+   "createdBy": "eff4813e-afba-4e02-8898-feaf87c45122",
+   "createdOn": "2021-04-15T16:35:05.2872521Z",
+   "updatedBy": null,
+   "updatedOn": null
+  },
+  "enforcementMode": "Default"
+ },
+ "id": "/subscriptions/efdd7680-2eb7-4902-a269-899c18b1635e/providers/Microsoft.Authorization/policyAssignments/9f32410449d95e3a75ebf1df4f414bb130bca3b0ac2ceac8f35cfc6e5dadc9cb",
+ "type": "Microsoft.Authorization/policyAssignments",
+ "name": "9f32410449d95e3a75ebf1df4f414bb130bca3b0ac2ceac8f35cfc6e5dadc9cb"
+}
